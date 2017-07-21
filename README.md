@@ -1,8 +1,10 @@
 # hello-world
-Hello World App for Android
-This is an example code for an application for Android devices.
+Aplicativo Olá Mundo para Android
 
-Version History:
+Este é um código exemplo para aplicações desenvolvidas para rodar em dispositivos Android.
+
+Histórico de Versões:
 
 1.0 - First version of Hello World.
+1.1 - Segunda versão, agora em português.
 
