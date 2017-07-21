@@ -7,5 +7,5 @@ Histórico de Versões:
 
 1.0 - First version of Hello World.
 1.1 - Segunda versão, agora em português.
-1.2 - Com index.htm
+1.2 - Com index.htm, descrição melhorada
 
